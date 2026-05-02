@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 980 305'>
+  <rect width='980' height='305' fill='none'/>
+  <g fill='none' stroke='#F2F2F2' stroke-width='48' stroke-linecap='round' stroke-linejoin='round'>
+    <circle cx='100' cy='183' r='74'/>
+    <path d='M187 23v237'/>
+    <path d='M187 183c0-41 35-74 78-74s78 33 78 74v77'/>
+    <path d='M343 183c0-41 35-74 78-74 30 0 57 17 70 43'/>
+    <path d='M565 157c-19-30-52-48-88-48-58 0-104 46-104 104s46 104 104 104c35 0 66-17 85-43'/>
+    <path d='M390 247l178-78'/>
+  </g>
+  <g fill='#F2F2F2' font-family='Arial, Helvetica, sans-serif'>
+    <text x='610' y='120' font-size='68' font-weight='400'>Documento</text>
+    <text x='610' y='188' font-size='68' font-weight='400'>Nacional</text>
+    <text x='610' y='256' font-size='68' font-weight='400'>do Estudante</text>
+  </g>
+</svg>
